@@ -1,0 +1,20 @@
+.containerD{
+    float:right;
+    text-align: center;
+    background-color: #B4E9DF;
+    width: 600px;
+    height: 600px;
+}
+
+.containerI{
+    float: left;
+    text-align: center;
+    width: 600px;
+    height: 600px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+
